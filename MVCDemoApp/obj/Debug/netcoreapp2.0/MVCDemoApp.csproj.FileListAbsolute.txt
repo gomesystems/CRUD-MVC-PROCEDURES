@@ -1,0 +1,26 @@
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.deps.json
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.json
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.dev.json
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.dll
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.pdb
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csprojResolveAssemblyReference.cache
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfo.cs
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.dll
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.pdb
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\bin\Debug\netcoreapp2.0\bower.json
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.deps.json
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.json
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.dev.json
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.dll
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.pdb
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csprojAssemblyReference.cache
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfoInputs.cache
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfo.cs
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.dll
+C:\Meus Projetos - DotNet - Core\CRUD.With.VS17.ADO-PROCEDURES\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.pdb
